@@ -67,4 +67,5 @@ int main() {
   sort(b.begin(), b.begin() + 3);// b = {1,2,3,4,5}
 
   int index = 0;
+  return 0;
 }
